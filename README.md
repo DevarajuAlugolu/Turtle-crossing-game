@@ -19,7 +19,7 @@ The Turtle Crossing Game is a classic arcade-style game where the player control
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/turtle-crossing-game.git
+    git clone https://github.com/your_username/Turtle-crossing-game.git
     ```
 
 2. Install the required dependencies:
